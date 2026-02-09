@@ -17,8 +17,11 @@ https://github.com/ig0lochka/SiteAnalyzer-v1.0/releases/latest
 # Примеры паролей:
 
 admin → Admin2026!
+
 ikt → Ikt2026!
+
 metodist → Metodist2026!
+
 sheptunova → 12345
 
 ## Как провести анализ сайта
