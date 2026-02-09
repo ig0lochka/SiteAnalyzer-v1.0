@@ -3,10 +3,11 @@
 
 ## Установка и запуск
 
-Скачайте файл SiteAnalyzer Web v1.06.exe из репозитория GitHub (раздел Releases):
+Скачайте файл SiteAnalyzer Web v1.07.exe из репозитория GitHub (раздел Releases):
 https://github.com/ig0lochka/SiteAnalyzer-v1.0/releases/latest
 Запустите файл двойным кликом.
 Программа откроется сразу (окно входа).
+Ожидайте скачивание DL-модели для анализа данных (3-5 минут)
 
 ## Вход в систему
 
