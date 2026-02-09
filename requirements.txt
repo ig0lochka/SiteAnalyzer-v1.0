@@ -1,0 +1,12 @@
+# requirements.txt для SiteAnalyzer
+
+python==3.10.12
+tk==0.1.0                  # Tkinter обычно идёт с Python, но для явности
+nltk==3.8.1
+spacy==3.7.5
+scikit-learn==1.5.2
+pandas==2.2.3
+reportlab==4.2.5
+torch==2.5.1               
+sentence-transformers==3.3.1  
+huggingface-hub==0.28.1
